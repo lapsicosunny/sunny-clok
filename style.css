@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 300px;
+  width: 200px;
+  background: url(https://i.ibb.co/mJfxh2h/Disen-o-sin-ti-tulo-37.png) no-repeat center center fixed;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  resize: none;
+}
+
+
+.wrapper {
+  position: absolute;
+  top: 40%;
+  left: 20%;
+  right: 20%;
+
+}
+
+
+#greeting{
+  color: white;
+  text-shadow: 2px 2px 4px #000;
+  text-align: center;
+  font-size: 400%;
+}
+
+
+
+#date {
+  color: white;
+  text-shadow: 2px 2px 4px #000;
+  text-align: center;
+  font-size: 250%;
+}
+#time {
+  color: white;
+  text-shadow: 2px 2px 4px #000;
+  text-align: center;
+  font-size: 250%;
+}
