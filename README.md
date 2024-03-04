@@ -10,9 +10,9 @@ Este proyecto es un reloj simple que muestra un saludo personalizado según la h
 ### Instrucciones
 
 1. Clona el repositorio:
-
+https://github.com/lapsicosunny/sunny-clok.git
    ```bash
-   git clone
+gh repo clone lapsicosunny/sunny-clok
 Abre el archivo  index.html en tu navegador web. 
 Observa el reloj con el saludo personalizado en la pantalla. 
 Personalización 
